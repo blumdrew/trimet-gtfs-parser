@@ -1,0 +1,2 @@
+get historical GTFS data from this site: https://transitfeeds.com/p/trimet/43
+TriMet ridership data pdfs are here: https://trimet.org/about/performance.htm
